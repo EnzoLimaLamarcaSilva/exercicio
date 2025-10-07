@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-size: 1.5rem;
+    background: linear-gradient(to right, rgb(146, 12, 12),rgb(107, 13, 13), rgb(114, 22, 15),rgb(56, 5, 5), rgb(0, 0, 0) );
+
+    color: white;
+}
+
+button, input{
+    color: white;
+    font-size: 1.25rem;
+    text-align: center;
+    background-color: black;
+    border-radius: 8px;
+    margin-top: 4px;
+}
+
+#resposta{
+    color: white;
+    font-size: 1.5rem;
+    text-align: center;
+}
